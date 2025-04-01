@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=Profile%20views&color=0e75b6&style=flat" alt="hammadsoftware" /> </p>
 
- <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="700" height="500"/>
+ <img align="right" src="https://medium.com/@obayomi96/few-tips-to-help-you-become-a-better-developer-f67618daabfd" alt="css3" width="700" height="500"/>
 - 🌱 I’m currently learning **express,React**
 
 - 💬 Ask me about **react,backend,mongoDB**
