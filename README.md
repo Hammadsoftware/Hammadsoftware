@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad Tariq</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=Profile%20views&color=0e75b6&style=flat" alt="hammadsoftware" align="right" width="100" height="30"/> 
 </p>
     <div style="display: flex; flex-direction: row; align-items: center; gap: 10px; justify-content: center; width: 100%;">
