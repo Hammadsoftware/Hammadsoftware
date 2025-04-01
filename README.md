@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display:flex; gap:10;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/>
   </a>
