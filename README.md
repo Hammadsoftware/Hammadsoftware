@@ -1,9 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hammad Tariq</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=Profile%20views&color=0e75b6&style=flat" alt="hammadsoftware" /> </p>
+<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=Profile%20views&color=0e75b6&style=flat" alt="hammadsoftware" align="right" width="50" height="50"/> 
+</p>
 
 ![Description](https://github.com/Hammadsoftware/Hammadsoftware/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif)
+
+...
+
+<p align="left" style="display:flex; gap:10;">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" align="right"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" align="right"/>
+  </a>
+  ...
+</p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadsoftware&show_icons=true&locale=en&layout=compact" alt="hammadsoftware" width="300" height="150"/></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hammadsoftware&show_icons=true&locale=en" alt="hammadsoftware" width="300" height="150"/></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadsoftware&" alt="hammadsoftware" width="300" height="150"/></p>
 - 🌱 I’m currently learning **express,React**
 
 - 💬 Ask me about **react,backend,mongoDB**
