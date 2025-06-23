@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hammad Tariq</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
-
 <div style="display: flex; flex-direction: row; align-items: center; gap: 10px; justify-content: center; width: 100%;">
-  
   <div>
     <p align="right">
-      <img src="https://github.com/Hammadsoftware/Hammadsoftware/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif" alt="Description" width="300" height="200">
+      <img src="https://github.com/Hammadsoftware/Hammadsoftware/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif" alt="Hammad Tariq" width="300" height="200">
     </p>
   </div>
   <div style="margin-top: 30px; width: 500px;">
     <p>🌱 I’m currently learning <strong>AI/ML</strong></p>
-    <p>💬 Ask me about <strong>react, backend, mongoDB , Full-stack Projects</strong></p>
-    <p>📫 How to reach me <strong>hammadworkshops@gmail.com</strong></p>
+    <p>💬 Ask me about <strong>React, Backend, MongoDB, Full-stack Projects</strong></p>
+    <p>📫 How to reach me: <strong>hammadworkshops@gmail.com</strong></p>
   </div>
 </div>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/hammad-tariq-13002a2b9" target="black" >Linkdin</a>
+  <a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; color: #0A66C2; font-weight: bold;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 8px; fill: #0A66C2;" />
+    LinkedIn
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
