@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/hammad-tariq-13002a2b9">Linkdin</a>
+  <a href="linkedin.com/in/hammad-tariq-13002a2b9" target="black" >Linkdin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
