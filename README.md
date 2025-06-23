@@ -16,10 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; color: #0A66C2; font-weight: bold;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 8px; fill: #0A66C2;" />
-    LinkedIn
-  </a>
+<a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; color: #0A66C2; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 8px; fill: #0A66C2;" />
+  LinkedIn
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
