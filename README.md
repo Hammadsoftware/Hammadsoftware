@@ -10,8 +10,8 @@
     </p>
   </div>
   <div style="margin-top: 30px; width: 500px;">
-    <p>🌱 I’m currently learning <strong>express, React</strong></p>
-    <p>💬 Ask me about <strong>react, backend, mongoDB</strong></p>
+    <p>🌱 I’m currently learning <strong>AI/ML</strong></p>
+    <p>💬 Ask me about <strong>react, backend, mongoDB , Full-stack Projects</strong></p>
     <p>📫 How to reach me <strong>hammadworkshops@gmail.com</strong></p>
   </div>
 </div>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add social media and other links here -->
+  <a href="linkedin.com/in/hammad-tariq-13002a2b9">Linkdin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
