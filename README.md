@@ -1,115 +1,195 @@
-<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B1120"/>
-      <stop offset="100%" stop-color="#0F2027"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00C4FF" stop-opacity="0.2"/>
-      <stop offset="50%" stop-color="#00C4FF" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#7CFFCB" stop-opacity="1"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00C4FF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#00C4FF" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
-  </defs>
+<div align="center">
 
-  <rect x="0" y="0" width="900" height="340" rx="18" fill="url(#bgGrad)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4FF&height=250&section=header&text=Hammad%20Tariq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Next.js%20%7C%20MERN%20%26%20PERN&descAlignY=55&descSize=18" width="100%"/>
 
-  <!-- Terminal window (left) -->
-  <g transform="translate(30,30)">
-    <rect x="0" y="0" width="330" height="280" rx="12" fill="#0D1117" stroke="#1F2937" stroke-width="1.5"/>
-    <rect x="0" y="0" width="330" height="34" rx="12" fill="#161B22"/>
-    <circle cx="20" cy="17" r="6" fill="#FF5F56"/>
-    <circle cx="42" cy="17" r="6" fill="#FFBD2E"/>
-    <circle cx="64" cy="17" r="6" fill="#27C93F"/>
-    <text x="165" y="22" fill="#8B949E" font-family="Consolas, monospace" font-size="12" text-anchor="middle">server.js</text>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications+%F0%9F%A4%96;FastAPI+%7C+RAG+%7C+LLMs+%F0%9F%A7%A0;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" />
 
-    <g font-family="Consolas, monospace" font-size="13">
-      <text x="18" y="65"><tspan fill="#FF7B72">const</tspan><tspan fill="#C9D1D9"> app = </tspan><tspan fill="#79C0FF">require</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">'express'</tspan><tspan fill="#C9D1D9">)()</tspan></text>
-      <text x="18" y="90"><tspan fill="#FF7B72">const</tspan><tspan fill="#C9D1D9"> db = </tspan><tspan fill="#79C0FF">connect</tspan><tspan fill="#C9D1D9">(URI)</tspan></text>
-      <text x="18" y="115"><tspan fill="#8B949E">// power up the API</tspan></text>
-      <text x="18" y="140"><tspan fill="#FF7B72">async function</tspan><tspan fill="#D2A8FF"> boot</tspan><tspan fill="#C9D1D9">() {</tspan></text>
-      <text x="34" y="165"><tspan fill="#79C0FF">await</tspan><tspan fill="#C9D1D9"> db.</tspan><tspan fill="#D2A8FF">ready</tspan><tspan fill="#C9D1D9">()</tspan></text>
-      <text x="34" y="190"><tspan fill="#C9D1D9">app.</tspan><tspan fill="#D2A8FF">listen</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#79C0FF">PORT</tspan><tspan fill="#C9D1D9">)</tspan></text>
-      <text x="18" y="215"><tspan fill="#C9D1D9">}</tspan></text>
-      <text x="18" y="245"><tspan fill="#8B949E">status: </tspan><tspan fill="#7CFFCB">"online"</tspan></text>
-    </g>
+<br/>
 
-    <!-- blinking cursor -->
-    <rect x="18" y="252" width="8" height="14" fill="#00C4FF">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+<img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=PROFILE%20VIEWS&color=00C4FF&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&logo=vercel&logoColor=white&color=00C4FF"/>
+<img src="https://img.shields.io/badge/LOCATION-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge"/>
 
-  <!-- Connection lines carrying "power" from code to server -->
-  <g stroke="url(#lineGrad)" stroke-width="2.5" fill="none">
-    <path id="wire1" d="M360,90 C 480,90 480,120 620,120"/>
-    <path id="wire2" d="M360,170 C 480,170 480,170 620,170"/>
-    <path id="wire3" d="M360,250 C 480,250 480,220 620,220"/>
-  </g>
+</div>
 
-  <!-- animated energy pulses traveling along the wires -->
-  <circle r="5" fill="#7CFFCB" filter="url(#softBlur)">
-    <animateMotion dur="1.8s" repeatCount="indefinite" path="M360,90 C 480,90 480,120 620,120"/>
-  </circle>
-  <circle r="5" fill="#00C4FF" filter="url(#softBlur)">
-    <animateMotion dur="1.6s" begin="0.4s" repeatCount="indefinite" path="M360,170 C 480,170 480,170 620,170"/>
-  </circle>
-  <circle r="5" fill="#7CFFCB" filter="url(#softBlur)">
-    <animateMotion dur="2s" begin="0.8s" repeatCount="indefinite" path="M360,250 C 480,250 480,220 620,220"/>
-  </circle>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
 
-  <!-- Power glow at the junction where lines meet the server -->
-  <circle cx="620" cy="170" r="34" fill="url(#glow)">
-    <animate attributeName="r" values="28;38;28" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2s" repeatCount="indefinite"/>
-  </circle>
+## 👨‍💻 About Me
 
-  <!-- Server rack (right) -->
-  <g transform="translate(620,45)">
-    <rect x="0" y="0" width="250" height="250" rx="14" fill="#111827" stroke="#00C4FF" stroke-width="1.5"/>
-    <!-- rack units -->
-    <g>
-      <rect x="18" y="20" width="214" height="42" rx="6" fill="#1B2433" stroke="#233045"/>
-      <rect x="18" y="74" width="214" height="42" rx="6" fill="#1B2433" stroke="#233045"/>
-      <rect x="18" y="128" width="214" height="42" rx="6" fill="#1B2433" stroke="#233045"/>
-      <rect x="18" y="182" width="214" height="42" rx="6" fill="#1B2433" stroke="#233045"/>
-    </g>
+<div align="center">
+<img src="assets/server-connect.svg" width="100%" alt="code powering the server"/>
+</div>
 
-    <!-- blinking LEDs on each unit -->
-    <circle cx="36" cy="41" r="4.5" fill="#7CFFCB">
-      <animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="36" cy="95" r="4.5" fill="#00C4FF">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="36" cy="149" r="4.5" fill="#7CFFCB">
-      <animate attributeName="opacity" values="1;0.3;1" dur="0.9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="36" cy="203" r="4.5" fill="#00C4FF">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
+<br/>
 
-    <!-- vent lines on each unit -->
-    <g stroke="#3A4B63" stroke-width="2">
-      <line x1="70" y1="30" x2="220" y2="30"/><line x1="70" y1="41" x2="220" y2="41"/><line x1="70" y1="52" x2="220" y2="52"/>
-      <line x1="70" y1="84" x2="220" y2="84"/><line x1="70" y1="95" x2="220" y2="95"/><line x1="70" y1="106" x2="220" y2="106"/>
-      <line x1="70" y1="138" x2="220" y2="138"/><line x1="70" y1="149" x2="220" y2="149"/><line x1="70" y1="160" x2="220" y2="160"/>
-      <line x1="70" y1="192" x2="220" y2="192"/><line x1="70" y1="203" x2="220" y2="203"/><line x1="70" y1="214" x2="220" y2="214"/>
-    </g>
+```javascript
+const hammad = {
+    location: "Pakistan 🇵🇰",
+    education: "BS Software Engineering",
+    role: "Full Stack Developer",
 
-    <text x="125" y="242" fill="#7CFFCB" font-family="Consolas, monospace" font-size="13" text-anchor="middle" font-weight="bold">SERVER: ONLINE</text>
-  </g>
+    currentlyLearning: [
+        "AI Agents", "LLMs", "RAG",
+        "FastAPI", "Docker", "AWS"
+    ],
 
-  <!-- power bolt icon at the junction -->
-  <g transform="translate(608,152)">
-    <path d="M14 0 L4 20 L12 20 L8 36 L26 14 L16 14 Z" fill="#FFD166" stroke="#FFB703" stroke-width="1">
-      <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="1s" repeatCount="indefinite" additive="sum"/>
-    </path>
-  </g>
-</svg>
+    interests: [
+        "Artificial Intelligence",
+        "System Design",
+        "Backend Development",
+        "Cloud Computing"
+    ],
+
+    funFact: "Code. Learn. Build. Repeat.",
+    openToWork: true
+};
+
+boot(); // 🔌 every line I write powers something real
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite,figma&perline=10" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=10" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" />
+
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=python&perline=10" />
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frameworks & Libraries**
+- 🦜 LangChain
+- 🕸️ LangGraph
+- 🤗 HuggingFace
+- 🔺 ChromaDB
+
+</td>
+<td valign="top" width="50%">
+
+**APIs & Platforms**
+- ⚡ Groq API
+- 🧬 OpenAI API
+- 🔍 Vector Search
+- 📄 RAG Pipelines
+
+</td>
+</tr>
+</table>
+
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode&perline=10" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+
+## 💼 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 H-Shop Ecommerce
+Full-stack e-commerce platform with an admin dashboard, JWT auth, payment integration, and complete order management.
+
+`Next.js` `Node.js` `Express` `MySQL` `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Interview Assistant
+AI-powered platform that generates interview questions, evaluates answers, analyzes resumes, matches job descriptions, and gives ATS-style scoring.
+
+`Next.js` `FastAPI` `LangChain` `Groq` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 AI Resume Analyzer
+Parses resumes, computes ATS scores, and delivers AI-driven suggestions with skills-gap analysis.
+
+`Python` `LangChain` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 AI RAG Chatbot
+Chat over PDFs and websites using vector search and semantic retrieval.
+
+`FastAPI` `LangChain` `ChromaDB` `HuggingFace` `Groq`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hammadsoftware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsoftware&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hammadsoftware&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF"/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C4FF&line=00C4FF&point=ffffff"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hammadsoftware&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+
+## 📌 Current Focus
+
+- 🚀 Building AI SaaS Applications
+- 🤖 AI Interview Evaluation System
+- 📚 Learning LLMs & AI Agents
+- ⚡ Improving System Design Skills
+- ☁️ AWS & Docker
+- 💼 Looking for Software Engineering Opportunities
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hammadworkshops@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>
