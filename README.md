@@ -1,21 +1,33 @@
-<!-- ===================================================== -->
-<!--                 HAMMAD TARIQ README                  -->
-<!--              STUNNING CYBERPUNK EDITION              -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=1200&lines=Hammad+Tariq;Full+Stack+Developer+%7C+AI+Engineer+%7C+Next.js+Developer;Building+Premium+AI+%26+Cloud+Applications;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=VISITORS&color=00FF41&style=for-the-badge" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00FF41?style=for-the-badge&logo=github" alt="Open To Work" />
-  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00E5FF?style=for-the-badge&logo=nextdotjs" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/AI-ENGINEER-7C4DFF?style=for-the-badge&logo=openai" alt="AI Engineer" />
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=VISITORS&color=00FF41&style=for-the-badge" alt="Visitor Count" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00FF41?style=for-the-badge&logo=github" alt="Open To Work" />
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00E5FF?style=for-the-badge&logo=nextdotjs" alt="Full Stack Developer" />
+<img src="https://img.shields.io/badge/AI-ENGINEER-7C4DFF?style=for-the-badge&logo=openai" alt="AI Engineer" />
 
 </div>
 
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF41?style=for-the-badge" />
+
+**Code. Learn. Build. Repeat.**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## `> terminal://introduction`
 
@@ -40,7 +52,9 @@ open_to_work = true
 
 ## `> about://me`
 
-<img align="right" width="300" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Stack visual" />
+<div align="right">
+  <img width="320" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Stack visual" />
+</div>
 
 - I build modern full stack products with a strong focus on AI, UX, and scalability.
 - I enjoy turning complex ideas into clean, production-ready applications.
@@ -103,28 +117,20 @@ open_to_work = true
 
 ---
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solver-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-7C4DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Builder-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-7C4DFF?style=for-the-badge" />
-</p>
-
----
-
 ## `> learning://journey`
 
-- AI Agents
-- LLMs
-- RAG
-- FastAPI
-- Docker
-- AWS
-- System Design
-- Scalable Backend Architecture
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-7C4DFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-7C4DFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable%20Backend-00E5FF?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -140,25 +146,23 @@ open_to_work = true
 
 ## `> connect://links`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hammadworkshops@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hammadsoftware">
-    <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hammadworkshops@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/hammadsoftware">
+  <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-
-### `> system.shutdown? false`
-
-**Code. Learn. Build. Repeat.**
 
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting-00FF41?style=for-the-badge" />
 
