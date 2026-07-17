@@ -98,15 +98,14 @@ open_to_work = true
 ## `> working://now`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true&bg_color=050505&color=00FF41&line=00E5FF&point=7C4DFF&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true&bg_color=050505&color=00FF41&line=00E5FF&point=7C4DFF&area=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadsoftware&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadsoftware&theme=tokyonight"/>
 </p>
 
 ---
-
 <!-- STATS -->
 ## `> metrics://github`
 
@@ -117,7 +116,32 @@ open_to_work = true
 
 ---
 
+<!-- STREAK -->
+## `> streak://status`
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadsoftware&theme=tokyonight&hide_border=true&background=050505&stroke=00FF41&ring=00E5FF&fire=7C4DFF&currStreakLabel=00FF41" />
+</p>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+## `> graph://contributions`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true&bg_color=050505&color=EAEAEA&line=00E5FF&point=00FF41&area=true&area_color=00FF41" />
+</p>
+
+---
+
+<!-- TROPHY -->
+## `> trophy://collection`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadsoftware&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=2&column=4" />
+</p>
+
+---
 
 <!-- SNAKE -->
 ## `> snake://animation`
@@ -208,4 +232,4 @@ Sun  █████░░░░░  5 hrs
 
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting-00FF41?style=for-the-badge" />
 
-</div
+</div>
