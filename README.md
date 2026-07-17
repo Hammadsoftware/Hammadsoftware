@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4FF&height=250&section=header&text=Hammad%20Tariq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Next.js%20%7C%20MERN%20%26%20PERN&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/name-banner.svg" width="100%" alt="Hammad Tariq"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4FF&height=200&section=header&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Next.js%20%7C%20MERN%20%26%20PERN&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications+%F0%9F%A4%96;FastAPI+%7C+RAG+%7C+LLMs+%F0%9F%A7%A0;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" />
 
@@ -22,30 +24,30 @@
 
 <br/>
 
-```javascript
-const hammad = {
-    location: "Pakistan 🇵🇰",
-    education: "BS Software Engineering",
-    role: "Full Stack Developer",
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-    currentlyLearning: [
-        "AI Agents", "LLMs", "RAG",
-        "FastAPI", "Docker", "AWS"
-    ],
+> *"I turn ideas into full-stack products — then wire them up to real AI so they actually think."*
 
-    interests: [
-        "Artificial Intelligence",
-        "System Design",
-        "Backend Development",
-        "Cloud Computing"
-    ],
+I'm a **Full Stack Developer** from Pakistan 🇵🇰, building with **Next.js**, **Node.js**, and **FastAPI**, and shipping AI-powered features on top with **LangChain**, **RAG pipelines**, and **LLMs**. Right now I'm deep in **AI Agents**, system design, and getting production-ready with **Docker** and **AWS**.
 
-    funFact: "Code. Learn. Build. Repeat.",
-    openToWork: true
-};
+📌 **Currently:** building AI SaaS tools and open to Software Engineering roles.
 
-boot(); // 🔌 every line I write powers something real
-```
+</td>
+<td width="40%" valign="top">
+
+| | |
+|---|---|
+| 🎓 **Education** | BS Software Engineering |
+| 🌍 **Location** | Pakistan |
+| 💼 **Status** | Open to Work ✅ |
+| 🧠 **Focus** | AI Agents · LLMs · RAG |
+| ⚡ **Motto** | Code. Learn. Build. Repeat. |
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
 
