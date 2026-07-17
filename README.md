@@ -1,12 +1,12 @@
-<!-- ========================= -->
-<!--  Hammad Tariq README.md   -->
-<!--  Futuristic Cyberpunk UI  -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                 HAMMAD TARIQ README                  -->
+<!--          Futuristic Cyberpunk / AI Portfolio         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 <!-- HERO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hammad+Tariq;Full+Stack+Developer+%7C+AI+Engineer+%7C+Next.js+Developer;Building+Intelligent+Web+Apps+with+Modern+JavaScript+%26+AI;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1100&lines=Hammad+Tariq;Full+Stack+Developer+%7C+AI+Engineer+%7C+Next.js+Developer;Building+Futuristic+Web+Apps+with+AI+%26+Cloud;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=VISITORS&color=00FF41&style=for-the-badge" alt="Visitor Count" />
@@ -22,8 +22,6 @@
   <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/fad00749-6953-48c2-841b-9326ab1e247a.png?AWSAccessKeyId=ASIA2F3EMEYEWNXT36H5&Signature=AW3S5ZOeoJAkRNkPVDaaTvPEX2Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICuxiQenDDhKsKu4mqvb57p99yWrVPhvs%2B29SqnNXqtdAiAzSLZiimsq9h1lXxnBwa2%2BDu9SEPYEP2zdxxicOIYpwirzBAhiEAEaDDY5OTc1MzMwOTcwNSIMsg7c6%2FuC5bCkUCudKtAE8Dk%2BX8HwclWumONKMPR9Gs3oCkfq2CDAEYAo%2BVjyf4m%2F%2Fr%2BHrWjoguJdOogZV9qqJ8JzC0LIrUPV8CaUMCfI5uiJRXzr5I%2BCVHhxNmO3NCRWMiO4yIFNGEXI8C6RByzFSwtNAOAqU9r0ldyqt5W8ZNHYy9e39gq0RJJGdn8kYe%2Bqzd0md0BpwZ3%2BjG8cN%2FrHhgfeYECSoB46AvRSVLkIIX9ZZkJEfFqGfARhslxweGRbKD5JJx%2FcxtY56o%2FO1NGeV9CiFKXpLRAFs6ekXVGC7w%2Fhls0pKfHqXAFFIyuSYOcC4%2Bu%2BzjecuUBMm6T64Y6NlejQalGKhVXnfk5dGUNliSLA63%2FTjuy5orEyjj66DlO%2BuFVMja1kQAP42VqzQlCVYIG1xvoUd8Qrrsc2X%2FTI7BRCW5LOu%2FtTzXk8q6V7HORGDo%2BiBkh0vwyJIfSiiGijYG4GoXwpAZb%2BQ%2FgUuVKetmI0bLx5yrVC0Ohts1nuxO1erOV5tD0iAuANSxv2TPM%2BW%2B3YITwqItfVoTw%2B0EIjctdCeqYgvxTTgVJW86TlVVHUizpJcg2krcJxz5d6pJHCI5%2BgT6%2B3IOsWDfnCC7cLtgcz2b2YmqhuRGT%2FcBCx5b9VCATA5QvTh%2F7J0Xc2pjywH56sPM9eSM2t3oBV5pVhqni0cI0yM%2Fy2pZCBwpDpZhhAKWbCS6Fu%2BrTPZucie%2F1kqePkrchiDZapYoXiFZvDmbOLkFrdbB6HS4Ek45hIMG4c9aUMr1f5yY8gnv2vduD72uvgd3PUmPZ4F7fNjzRC%2FjDYuenSBjqZAXLVHwuk722XKXQ%2BgcAEEPkhpw84RRIT1JPEhO67B8qt94%2Fc6yom1XGtXOW8RP2h9YHAuh6vPYqqolBNKMC2iMXU07vLN4kkIrSWZqRxIu%2BjZAgP1941CZ%2FEdiQWtVKXBRb0P6YLTGc%2B3f1JwRyF2iCyepE06FstDaRWjOFi7bs6bUs1AnmBY0UPl3RLu0ncGq9j92gverKGrA%3D%3D&Expires=1784310443" width="100%" alt="Cyberpunk hero banner" />
 </p>
 
----
-
 <!-- TERMINAL INTRO -->
 ## `> terminal://introduction`
 
@@ -37,11 +35,11 @@ Full Stack Developer | AI Engineer | Next.js Developer
 $ location
 Pakistan 🇵🇰
 
-$ status
-Building intelligent web applications using modern JavaScript, AI, and cloud technologies.
+$ bio
+Passionate Full Stack Developer building intelligent web applications using modern JavaScript, AI, and cloud technologies.
 
-$ open_to_work
-true
+$ status
+open_to_work = true
 ```
 
 ---
@@ -49,39 +47,20 @@ true
 <!-- ABOUT ME -->
 ## `> about://me`
 
-<img align="right" width="320" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Tech icons" />
+<img align="right" width="320" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Stack visual" />
 
-- Passionate Full Stack Developer focused on building premium AI-powered products.
-- I design and develop scalable web applications with modern JavaScript and cloud-native tooling.
-- I enjoy clean architecture, system design, automation, and production-ready UX.
-- I like turning complex workflows into elegant developer experiences.
-- I am actively seeking Software Engineering opportunities.
+- I build modern full stack products with a strong focus on AI, UX, and scalability.
+- I enjoy turning complex ideas into clean, production-ready applications.
+- My work combines frontend polish, backend performance, and practical AI integration.
+- I care about system design, clean code, and fast shipping.
+- I’m actively open to software engineering roles.
 
 <br clear="both"/>
 
 ---
 
-<!-- BADGES -->
-## `> status://badges`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF41?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00E5FF?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/AI-Engineer-7C4DFF?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Next.js-Developer-111111?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-Developer-111111?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-111111?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Python-AI%2FML-111111?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Docker-DevOps-111111?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-111111?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-111111?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-111111?style=for-the-badge&logo=postgresql" />
-</p>
-
----
-
 <!-- TECH STACK -->
-## `> stack://frontend-backend-data`
+## `> stack://core`
 
 ### Frontend
 <p align="center">
@@ -99,10 +78,6 @@ true
 </p>
 
 ### AI Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-00FF41?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-00E5FF?style=for-the-badge" />
@@ -125,130 +100,116 @@ true
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🤖 AI Interview Platform
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/111111/00FF41?text=AI+Interview+Platform" width="100%" alt="AI Interview Platform" />
-</p>
-
-A premium AI-powered interview system that generates questions, evaluates answers, analyzes resumes, matches job descriptions, and provides ATS-style scoring.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Groq-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
-</p>
-
-[GitHub](#) • [Live Demo](#)
-
+      <div style="background:#111111;border:1px solid #00FF41;border-radius:18px;padding:16px;">
+        <img src="https://readmeforge.natrajx.in/api/banner?text=AI%20Interview%20Platform&subtext=Question%20generation%20%2B%20evaluation%20%2B%20ATS%20scoring&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="AI Interview Platform" />
+        <h3 align="center">AI Interview Platform</h3>
+        <p align="center">AI interview system for generating questions, evaluating answers, analyzing resumes, matching job descriptions, and scoring candidates.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
+          <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
+          <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" />
+          <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
+        </p>
+        <p align="center">
+          <a href="YOUR_GITHUB_REPO_1">GitHub</a> •
+          <a href="YOUR_LIVE_DEMO_1">Live Demo</a>
+        </p>
+      </div>
     </td>
+
     <td width="50%" valign="top">
-
-### 📄 AI Resume Analyzer
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/111111/00E5FF?text=AI+Resume+Analyzer" width="100%" alt="AI Resume Analyzer" />
-</p>
-
-A smart resume analysis engine with ATS scoring, skills gap analysis, parsing, and actionable AI suggestions.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square" />
-</p>
-
-[GitHub](#) • [Live Demo](#)
-
+      <div style="background:#111111;border:1px solid #00E5FF;border-radius:18px;padding:16px;">
+        <img src="https://readmeforge.natrajx.in/api/banner?text=AI%20Resume%20Analyzer&subtext=ATS%20score%20%2B%20skills%20gap%20analysis%20%2B%20AI%20feedback&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="AI Resume Analyzer" />
+        <h3 align="center">AI Resume Analyzer</h3>
+        <p align="center">Resume intelligence engine with parsing, ATS scoring, skills gap analysis, and AI-powered suggestions.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
+          <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai" />
+          <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square" />
+        </p>
+        <p align="center">
+          <a href="YOUR_GITHUB_REPO_2">GitHub</a> •
+          <a href="YOUR_LIVE_DEMO_2">Live Demo</a>
+        </p>
+      </div>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-
-### 💬 AI RAG Chatbot
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/111111/7C4DFF?text=AI+RAG+Chatbot" width="100%" alt="AI RAG Chatbot" />
-</p>
-
-A semantic search chatbot for PDFs and websites with vector retrieval, document intelligence, and conversational AI.
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface" />
-</p>
-
-[GitHub](#) • [Live Demo](#)
-
+      <div style="background:#111111;border:1px solid #7C4DFF;border-radius:18px;padding:16px;">
+        <img src="https://readmeforge.natrajx.in/api/banner?text=AI%20RAG%20Chatbot&subtext=PDF%20chat%20%2B%20semantic%20search%20%2B%20vector%20retrieval&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="AI RAG Chatbot" />
+        <h3 align="center">AI RAG Chatbot</h3>
+        <p align="center">Conversational AI system for PDFs and websites using semantic search, retrieval, and vector databases.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
+          <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" />
+          <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square" />
+          <img src="https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface" />
+        </p>
+        <p align="center">
+          <a href="YOUR_GITHUB_REPO_3">GitHub</a> •
+          <a href="YOUR_LIVE_DEMO_3">Live Demo</a>
+        </p>
+      </div>
     </td>
+
     <td width="50%" valign="top">
-
-### 🏢 HR Management System
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/111111/00FF41?text=HR+Management+System" width="100%" alt="HR Management System" />
-</p>
-
-A modern HR platform for employee management, workflows, attendance, and internal operations.
-
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
-</p>
-
-[GitHub](#) • [Live Demo](#)
-
+      <div style="background:#111111;border:1px solid #00FF41;border-radius:18px;padding:16px;">
+        <img src="https://readmeforge.natrajx.in/api/banner?text=HR%20Management%20System&subtext=Employee%20management%20%2B%20workflow%20automation%20%2B%20dashboards&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="HR Management System" />
+        <h3 align="center">HR Management System</h3>
+        <p align="center">Modern HR platform for employee records, workflow automation, attendance, and internal operations.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
+          <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
+          <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
+          <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
+        </p>
+        <p align="center">
+          <a href="YOUR_GITHUB_REPO_4">GitHub</a> •
+          <a href="YOUR_LIVE_DEMO_4">Live Demo</a>
+        </p>
+      </div>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-
-### 🛒 H-Shop Ecommerce
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/111111/00E5FF?text=H-Shop+Ecommerce" width="100%" alt="H-Shop Ecommerce" />
-</p>
-
-A full-stack ecommerce platform with admin dashboard, authentication, payments, and order management.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma" />
-</p>
-
-[GitHub](#) • [Live Demo](#)
-
+      <div style="background:#111111;border:1px solid #00E5FF;border-radius:18px;padding:16px;">
+        <img src="https://readmeforge.natrajx.in/api/banner?text=H-Shop%20Ecommerce&subtext=Payments%20%2B%20admin%20dashboard%20%2B%20order%20management&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="H-Shop Ecommerce" />
+        <h3 align="center">H-Shop Ecommerce</h3>
+        <p align="center">Full-stack ecommerce platform with authentication, payments, admin dashboard, and order management.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
+          <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
+          <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express" />
+          <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql" />
+          <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma" />
+        </p>
+        <p align="center">
+          <a href="YOUR_GITHUB_REPO_5">GitHub</a> •
+          <a href="YOUR_LIVE_DEMO_5">Live Demo</a>
+        </p>
+      </div>
     </td>
+
     <td width="50%" valign="top">
-
-### 🍔 Food Delivery App
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/111111/7C4DFF?text=Food+Delivery+App" width="100%" alt="Food Delivery App" />
-</p>
-
-A sleek food ordering and delivery experience with customer flows, live ordering, and responsive design.
-
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss" />
-</p>
-
-[GitHub](#) • [Live Demo](#)
-
+      <div style="background:#111111;border:1px solid #7C4DFF;border-radius:18px;padding:16px;">
+        <img src="https://readmeforge.natrajx.in/api/banner?text=Food%20Delivery%20App&subtext=Ordering%20%2B%20delivery%20flows%20%2B%20responsive%20UI&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="Food Delivery App" />
+        <h3 align="center">Food Delivery App</h3>
+        <p align="center">A sleek food ordering experience with live delivery flows, customer UI, and responsive design.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
+          <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
+          <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb" />
+          <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss" />
+        </p>
+        <p align="center">
+          <a href="YOUR_GITHUB_REPO_6">GitHub</a> •
+          <a href="YOUR_LIVE_DEMO_6">Live Demo</a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -330,7 +291,7 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- LEARNING JOURNEY -->
+<!-- LEARNING -->
 ## `> learning://journey`
 
 - AI Agents
