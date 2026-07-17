@@ -1,171 +1,159 @@
 <div align="center">
 
-<img src="assets/name-banner.svg" width="100%" alt="Hammad Tariq"/>
+# 👋 Hi, I'm **Hammad Tariq**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4FF&height=200&section=header&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Next.js%20%7C%20MERN%20%26%20PERN&descAlignY=55&descSize=18" width="100%"/>
+### 🚀 Full Stack Developer | Next.js | AI Integration | MERN & PERN | Open to Software Engineering Opportunities
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications+%F0%9F%A4%96;FastAPI+%7C+RAG+%7C+LLMs+%F0%9F%A7%A0;Open+to+Software+Engineering+Roles+%F0%9F%92%BC" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;FastAPI+%7C+RAG+%7C+LLMs;Always+Learning+Something+New" />
 
+<img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/fad00749-6953-48c2-841b-9326ab1e247a.png?AWSAccessKeyId=ASIA2F3EMEYEWNXT36H5&Signature=AW3S5ZOeoJAkRNkPVDaaTvPEX2Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICuxiQenDDhKsKu4mqvb57p99yWrVPhvs%2B29SqnNXqtdAiAzSLZiimsq9h1lXxnBwa2%2BDu9SEPYEP2zdxxicOIYpwirzBAhiEAEaDDY5OTc1MzMwOTcwNSIMsg7c6%2FuC5bCkUCudKtAE8Dk%2BX8HwclWumONKMPR9Gs3oCkfq2CDAEYAo%2BVjyf4m%2F%2Fr%2BHrWjoguJdOogZV9qqJ8JzC0LIrUPV8CaUMCfI5uiJRXzr5I%2BCVHhxNmO3NCRWMiO4yIFNGEXI8C6RByzFSwtNAOAqU9r0ldyqt5W8ZNHYy9e39gq0RJJGdn8kYe%2Bqzd0md0BpwZ3%2BjG8cN%2FrHhgfeYECSoB46AvRSVLkIIX9ZZkJEfFqGfARhslxweGRbKD5JJx%2FcxtY56o%2FO1NGeV9CiFKXpLRAFs6ekXVGC7w%2Fhls0pKfHqXAFFIyuSYOcC4%2Bu%2BzjecuUBMm6T64Y6NlejQalGKhVXnfk5dGUNliSLA63%2FTjuy5orEyjj66DlO%2BuFVMja1kQAP42VqzQlCVYIG1xvoUd8Qrrsc2X%2FTI7BRCW5LOu%2FtTzXk8q6V7HORGDo%2BiBkh0vwyJIfSiiGijYG4GoXwpAZb%2BQ%2FgUuVKetmI0bLx5yrVC0Ohts1nuxO1erOV5tD0iAuANSxv2TPM%2BW%2B3YITwqItfVoTw%2B0EIjctdCeqYgvxTTgVJW86TlVVHUizpJcg2krcJxz5d6pJHCI5%2BgT6%2B3IOsWDfnCC7cLtgcz2b2YmqhuRGT%2FcBCx5b9VCATA5QvTh%2F7J0Xc2pjywH56sPM9eSM2t3oBV5pVhqni0cI0yM%2Fy2pZCBwpDpZhhAKWbCS6Fu%2BrTPZucie%2F1kqePkrchiDZapYoXiFZvDmbOLkFrdbB6HS4Ek45hIMG4c9aUMr1f5yY8gnv2vduD72uvgd3PUmPZ4F7fNjzRC%2FjDYuenSBjqZAXLVHwuk722XKXQ%2BgcAEEPkhpw84RRIT1JPEhO67B8qt94%2Fc6yom1XGtXOW8RP2h9YHAuh6vPYqqolBNKMC2iMXU07vLN4kkIrSWZqRxIu%2BjZAgP1941CZ%2FEdiQWtVKXBRb0P6YLTGc%2B3f1JwRyF2iCyepE06FstDaRWjOFi7bs6bUs1AnmBY0UPl3RLu0ncGq9j92gverKGrA%3D%3D&Expires=1784310443" width="100%" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```javascript
+const hammad = {
+  location: "Pakistan 🇵🇰",
+  education: "BS Software Engineering",
+  role: "Full Stack Developer",
+  currentlyLearning: [
+    "AI Agents",
+    "LLMs",
+    "RAG",
+    "FastAPI",
+    "Docker",
+    "AWS"
+  ],
+  interests: [
+    "Artificial Intelligence",
+    "System Design",
+    "Backend Development",
+    "Cloud Computing"
+  ],
+  openToWork: true
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite,figma" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=python" />
+
+**Libraries**
 <br/>
+LangChain • LangGraph • HuggingFace • ChromaDB • Groq API • OpenAI API
 
-<img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=PROFILE%20VIEWS&color=00C4FF&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&logo=vercel&logoColor=white&color=00C4FF"/>
-<img src="https://img.shields.io/badge/LOCATION-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
-
-## 👨‍💻 About Me
-
-<div align="center">
-<img src="assets/server-connect.svg" width="100%" alt="code powering the server"/>
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-> *"I turn ideas into full-stack products — then wire them up to real AI so they actually think."*
-
-I'm a **Full Stack Developer** from Pakistan 🇵🇰, building with **Next.js**, **Node.js**, and **FastAPI**, and shipping AI-powered features on top with **LangChain**, **RAG pipelines**, and **LLMs**. Right now I'm deep in **AI Agents**, system design, and getting production-ready with **Docker** and **AWS**.
-
-📌 **Currently:** building AI SaaS tools and open to Software Engineering roles.
-
-</td>
-<td width="40%" valign="top">
-
-| | |
-|---|---|
-| 🎓 **Education** | BS Software Engineering |
-| 🌍 **Location** | Pakistan |
-| 💼 **Status** | Open to Work ✅ |
-| 🧠 **Focus** | AI Agents · LLMs · RAG |
-| ⚡ **Motto** | Code. Learn. Build. Repeat. |
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite,figma&perline=10" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=10" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" />
-
-### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=python&perline=10" />
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frameworks & Libraries**
-- 🦜 LangChain
-- 🕸️ LangGraph
-- 🤗 HuggingFace
-- 🔺 ChromaDB
-
-</td>
-<td valign="top" width="50%">
-
-**APIs & Platforms**
-- ⚡ Groq API
-- 🧬 OpenAI API
-- 🔍 Vector Search
-- 📄 RAG Pipelines
-
-</td>
-</tr>
-</table>
-
-### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode&perline=10" />
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## 🛒 H-Shop Ecommerce
+- Full Stack Ecommerce
+- Admin Dashboard
+- JWT Authentication
+- Payment Integration
+- Order Management
 
-### 🛒 H-Shop Ecommerce
-Full-stack e-commerce platform with an admin dashboard, JWT auth, payment integration, and complete order management.
+**Tech:** Next.js • Node.js • Express • MySQL • Prisma
 
-`Next.js` `Node.js` `Express` `MySQL` `Prisma`
+## 🤖 AI Interview Assistant
+- Generates interview questions
+- Evaluates answers
+- Resume Analysis
+- Job Description Matching
+- AI Feedback
+- ATS Style Scoring
 
-</td>
-<td width="50%" valign="top">
+**Tech:** Next.js • FastAPI • LangChain • Groq • PostgreSQL
 
-### 🤖 AI Interview Assistant
-AI-powered platform that generates interview questions, evaluates answers, analyzes resumes, matches job descriptions, and gives ATS-style scoring.
+## 📄 AI Resume Analyzer
+- Resume Parsing
+- ATS Score
+- AI Suggestions
+- Skills Gap Analysis
 
-`Next.js` `FastAPI` `LangChain` `Groq` `PostgreSQL`
+## 💬 AI RAG Chatbot
+- PDF Chat
+- Website Chat
+- Vector Database
+- Semantic Search
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech:** FastAPI • LangChain • ChromaDB • HuggingFace • Groq
 
-### 📄 AI Resume Analyzer
-Parses resumes, computes ATS scores, and delivers AI-driven suggestions with skills-gap analysis.
+---
 
-`Python` `LangChain` `NLP`
+# 📊 GitHub Analytics
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hammadsoftware&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsoftware&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 💬 AI RAG Chatbot
-Chat over PDFs and websites using vector search and semantic retrieval.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadsoftware&theme=tokyonight&hide_border=true" />
+</p>
 
-`FastAPI` `LangChain` `ChromaDB` `HuggingFace` `Groq`
+---
 
-</td>
-</tr>
-</table>
+# 📈 Contribution Graph
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true" />
+</p>
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hammadsoftware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsoftware&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadsoftware&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hammadsoftware&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF"/>
+---
 
-</div>
+# 🌍 Connect With Me
 
-## 📈 Contribution Graph
+<p align="left">
+  <a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:hammadworkshops@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C4FF&line=00C4FF&point=ffffff"/>
-</div>
+---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hammadsoftware&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
-
-## 📌 Current Focus
+# 📌 Current Focus
 
 - 🚀 Building AI SaaS Applications
 - 🤖 AI Interview Evaluation System
@@ -174,24 +162,12 @@ Chat over PDFs and websites using vector search and semantic retrieval.
 - ☁️ AWS & Docker
 - 💼 Looking for Software Engineering Opportunities
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:0F2027&height=3&width=100%"/>
-
-## 🌍 Connect With Me
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hammadworkshops@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
 ### ⭐ Thanks for visiting my profile!
-*"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+*"Code. Learn. Build. Repeat."*
 
 </div>
