@@ -1,85 +1,220 @@
-<h1 align="center">Hi 👋, I'm Hammad Tariq</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<div align="center">
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 10px; justify-content: center; width: 100%;">
-  <div>
-    <p align="right">
-      <img src="https://github.com/Hammadsoftware/Hammadsoftware/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif" alt="Hammad Tariq" width="300" height="200">
-    </p>
-  </div>
-  <div style="margin-top: 30px; width: 500px;">
-    <p>🌱 I’m currently learning <strong>AI/ML</strong></p>
-    <p>💬 Ask me about <strong>React, Backend, MongoDB, Full-stack Projects</strong></p>
-    <p>📫 How to reach me: <strong>hammadworkshops@gmail.com</strong></p>
-  </div>
+# Hi 👋, I'm Hammad Tariq
+
+### 🚀 Full Stack Developer | Next.js | AI Integration | MERN & PERN | Open to Software Engineering Opportunities
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;FastAPI+%7C+RAG+%7C+LLMs;Always+Learning+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+# 👨‍💻 About Me
+
+```javascript
+const hammad = {
+    location: "Pakistan 🇵🇰",
+
+    education: "BS Software Engineering",
+
+    role: "Full Stack Developer",
+
+    currentlyLearning: [
+        "AI Agents",
+        "LLMs",
+        "RAG",
+        "FastAPI",
+        "Docker",
+        "AWS"
+    ],
+
+    interests: [
+        "Artificial Intelligence",
+        "System Design",
+        "Backend Development",
+        "Cloud Computing"
+    ],
+
+    openToWork: true
+}
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite,figma"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+**Libraries**
+
+- LangChain
+- LangGraph
+- HuggingFace
+- ChromaDB
+- Groq API
+- OpenAI API
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode"/>
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🛒 H-Shop Ecommerce
+
+- Full Stack Ecommerce
+- Admin Dashboard
+- JWT Authentication
+- Payment Integration
+- Order Management
+
+**Tech**
+
+Next.js • Node.js • Express • MySQL • Prisma
+
+---
+
+## 🤖 AI Interview Assistant
+
+AI-powered interview platform that
+
+- Generates interview questions
+- Evaluates answers
+- Resume Analysis
+- Job Description Matching
+- AI Feedback
+- ATS Style Scoring
+
+**Tech**
+
+Next.js • FastAPI • LangChain • Groq • PostgreSQL
+
+---
+
+## 📄 AI Resume Analyzer
+
+- Resume Parsing
+- ATS Score
+- AI Suggestions
+- Skills Gap Analysis
+
+---
+
+## 💬 AI RAG Chatbot
+
+- PDF Chat
+- Website Chat
+- Vector Database
+- Semantic Search
+
+Tech
+
+- FastAPI
+- LangChain
+- ChromaDB
+- HuggingFace
+- Groq
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hammadsoftware&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsoftware&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hammadsoftware&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hammadsoftware&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; color: #0A66C2; font-weight: bold;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 8px; fill: #0A66C2;" />
-  LinkedIn
+
+<a href="https://www.linkedin.com/in/hammad-tariq-13002a2b9/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:hammadworkshops@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex; flex-wrap: wrap; gap:10px; justify-content: center;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-</p>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadsoftware&show_icons=true&locale=en&layout=compact" alt="hammadsoftware" />
-</p>
+# 📌 Current Focus
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadsoftware&show_icons=true&locale=en" alt="hammadsoftware" />
-</p>
+- 🚀 Building AI SaaS Applications
+- 🤖 AI Interview Evaluation System
+- 📚 Learning LLMs & AI Agents
+- ⚡ Improving System Design Skills
+- ☁️ AWS & Docker
+- 💼 Looking for Software Engineering Opportunities
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadsoftware&" alt="hammadsoftware" />
-</p>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
