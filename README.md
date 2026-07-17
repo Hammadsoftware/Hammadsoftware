@@ -1,11 +1,10 @@
 <!-- ===================================================== -->
 <!--                 HAMMAD TARIQ README                  -->
-<!--          Futuristic Cyberpunk / AI Portfolio         -->
+<!--         Single-file Cyberpunk / AI Portfolio          -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<!-- HERO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1100&lines=Hammad+Tariq;Full+Stack+Developer+%7C+AI+Engineer+%7C+Next.js+Developer;Building+Futuristic+Web+Apps+with+AI+%26+Cloud;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
 <p>
@@ -17,12 +16,83 @@
 
 </div>
 
-<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/fad00749-6953-48c2-841b-9326ab1e247a.png?AWSAccessKeyId=ASIA2F3EMEYEWNXT36H5&Signature=AW3S5ZOeoJAkRNkPVDaaTvPEX2Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICuxiQenDDhKsKu4mqvb57p99yWrVPhvs%2B29SqnNXqtdAiAzSLZiimsq9h1lXxnBwa2%2BDu9SEPYEP2zdxxicOIYpwirzBAhiEAEaDDY5OTc1MzMwOTcwNSIMsg7c6%2FuC5bCkUCudKtAE8Dk%2BX8HwclWumONKMPR9Gs3oCkfq2CDAEYAo%2BVjyf4m%2F%2Fr%2BHrWjoguJdOogZV9qqJ8JzC0LIrUPV8CaUMCfI5uiJRXzr5I%2BCVHhxNmO3NCRWMiO4yIFNGEXI8C6RByzFSwtNAOAqU9r0ldyqt5W8ZNHYy9e39gq0RJJGdn8kYe%2Bqzd0md0BpwZ3%2BjG8cN%2FrHhgfeYECSoB46AvRSVLkIIX9ZZkJEfFqGfARhslxweGRbKD5JJx%2FcxtY56o%2FO1NGeV9CiFKXpLRAFs6ekXVGC7w%2Fhls0pKfHqXAFFIyuSYOcC4%2Bu%2BzjecuUBMm6T64Y6NlejQalGKhVXnfk5dGUNliSLA63%2FTjuy5orEyjj66DlO%2BuFVMja1kQAP42VqzQlCVYIG1xvoUd8Qrrsc2X%2FTI7BRCW5LOu%2FtTzXk8q6V7HORGDo%2BiBkh0vwyJIfSiiGijYG4GoXwpAZb%2BQ%2FgUuVKetmI0bLx5yrVC0Ohts1nuxO1erOV5tD0iAuANSxv2TPM%2BW%2B3YITwqItfVoTw%2B0EIjctdCeqYgvxTTgVJW86TlVVHUizpJcg2krcJxz5d6pJHCI5%2BgT6%2B3IOsWDfnCC7cLtgcz2b2YmqhuRGT%2FcBCx5b9VCATA5QvTh%2F7J0Xc2pjywH56sPM9eSM2t3oBV5pVhqni0cI0yM%2Fy2pZCBwpDpZhhAKWbCS6Fu%2BrTPZucie%2F1kqePkrchiDZapYoXiFZvDmbOLkFrdbB6HS4Ek45hIMG4c9aUMr1f5yY8gnv2vduD72uvgd3PUmPZ4F7fNjzRC%2FjDYuenSBjqZAXLVHwuk722XKXQ%2BgcAEEPkhpw84RRIT1JPEhO67B8qt94%2Fc6yom1XGtXOW8RP2h9YHAuh6vPYqqolBNKMC2iMXU07vLN4kkIrSWZqRxIu%2BjZAgP1941CZ%2FEdiQWtVKXBRb0P6YLTGc%2B3f1JwRyF2iCyepE06FstDaRWjOFi7bs6bUs1AnmBY0UPl3RLu0ncGq9j92gverKGrA%3D%3D&Expires=1784310443" width="100%" alt="Cyberpunk hero banner" />
+  <svg width="100%" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cyberpunk hero banner">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#050505"/>
+        <stop offset="1" stop-color="#0B1020"/>
+      </linearGradient>
+      <linearGradient id="neon" x1="300" y1="120" x2="1300" y2="420" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00FF41"/>
+        <stop offset="0.5" stop-color="#00E5FF"/>
+        <stop offset="1" stop-color="#7C4DFF"/>
+      </linearGradient>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="10" result="blur"/>
+        <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 1 0 0 0.9  0 0 0 0 0.4  0 0 0 1 0" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+        <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
+      </filter>
+      <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+        <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1F2937" stroke-width="1"/>
+      </pattern>
+      <pattern id="binary" width="180" height="90" patternUnits="userSpaceOnUse">
+        <text x="0" y="18" fill="#14301C" font-family="monospace" font-size="14">01001001 00110000</text>
+        <text x="18" y="46" fill="#163444" font-family="monospace" font-size="14">11001010 00101101</text>
+        <text x="0" y="76" fill="#2A1B55" font-family="monospace" font-size="14">01101001 01000110</text>
+      </pattern>
+    </defs>
+
+    <rect width="1600" height="520" fill="url(#bg)"/>
+    <rect width="1600" height="520" fill="url(#grid)" opacity="0.35"/>
+    <rect width="1600" height="520" fill="url(#binary)" opacity="0.35"/>
+
+    <circle cx="1240" cy="120" r="220" fill="#00E5FF" opacity="0.08" filter="url(#glow)"/>
+    <circle cx="340" cy="390" r="250" fill="#00FF41" opacity="0.06" filter="url(#glow)"/>
+    <circle cx="1320" cy="370" r="180" fill="#7C4DFF" opacity="0.08" filter="url(#glow)"/>
+
+    <path d="M100 380 C 280 300, 430 300, 600 360 S 980 440, 1210 330 S 1450 250, 1550 300" stroke="url(#neon)" stroke-width="4" opacity="0.65" fill="none" filter="url(#glow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="140" y="90" rx="28" ry="28" width="1320" height="340" fill="#0B0F14" stroke="url(#neon)" stroke-width="2"/>
+      <rect x="170" y="120" rx="20" ry="20" width="520" height="270" fill="#111111" stroke="#00FF41" stroke-opacity="0.35"/>
+      <rect x="740" y="120" rx="20" ry="20" width="680" height="270" fill="#111111" stroke="#00E5FF" stroke-opacity="0.35"/>
+    </g>
+
+    <rect x="170" y="120" width="520" height="42" rx="20" fill="#121826"/>
+    <circle cx="198" cy="141" r="6" fill="#00FF41"/>
+    <circle cx="220" cy="141" r="6" fill="#00E5FF"/>
+    <circle cx="242" cy="141" r="6" fill="#7C4DFF"/>
+    <text x="270" y="147" fill="#A7F3D0" font-family="monospace" font-size="15">terminal@hammad:~</text>
+
+    <text x="210" y="210" fill="#EAEAEA" font-family="monospace" font-size="52" font-weight="700">Hammad Tariq</text>
+    <text x="210" y="260" fill="#00E5FF" font-family="monospace" font-size="22">Full Stack Developer | AI Engineer | Next.js Developer</text>
+    <text x="210" y="300" fill="#B8C2CC" font-family="monospace" font-size="18">Pakistan 🇵🇰</text>
+    <text x="210" y="340" fill="#00FF41" font-family="monospace" font-size="18">$ building intelligent web applications with AI & cloud</text>
+
+    <g transform="translate(830 150)" filter="url(#glow)">
+      <rect x="0" y="0" width="510" height="210" rx="24" fill="#0F172A" stroke="url(#neon)" stroke-width="2"/>
+      <rect x="18" y="18" width="474" height="28" rx="14" fill="#111827"/>
+      <text x="34" y="37" fill="#A7F3D0" font-family="monospace" font-size="15">/dev/hacker-workstation</text>
+      <text x="30" y="82" fill="#00FF41" font-family="monospace" font-size="16">[open_to_work] true</text>
+      <text x="30" y="112" fill="#00E5FF" font-family="monospace" font-size="16">[focus] AI SaaS • RAG • LLMs</text>
+      <text x="30" y="142" fill="#7C4DFF" font-family="monospace" font-size="16">[stack] Next.js • FastAPI • Docker • AWS</text>
+      <text x="30" y="172" fill="#EAEAEA" font-family="monospace" font-size="16">[status] building premium developer experiences</text>
+    </g>
+
+    <g filter="url(#glow)">
+      <rect x="1260" y="110" width="150" height="56" rx="18" fill="#00FF41" opacity="0.16" stroke="#00FF41"/>
+      <text x="1291" y="145" fill="#00FF41" font-family="monospace" font-size="17" font-weight="700">OPEN TO WORK</text>
+    </g>
+  </svg>
 </p>
 
-<!-- TERMINAL INTRO -->
 ## `> terminal://introduction`
 
 ```bash
@@ -44,7 +114,6 @@ open_to_work = true
 
 ---
 
-<!-- ABOUT ME -->
 ## `> about://me`
 
 <img align="right" width="320" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Stack visual" />
@@ -59,7 +128,6 @@ open_to_work = true
 
 ---
 
-<!-- TECH STACK -->
 ## `> stack://core`
 
 ### Frontend
@@ -94,129 +162,6 @@ open_to_work = true
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## `> projects://featured`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="background:#111111;border:1px solid #00FF41;border-radius:18px;padding:16px;">
-        <img src="https://readmeforge.natrajx.in/api/banner?text=AI%20Interview%20Platform&subtext=Question%20generation%20%2B%20evaluation%20%2B%20ATS%20scoring&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="AI Interview Platform" />
-        <h3 align="center">AI Interview Platform</h3>
-        <p align="center">AI interview system for generating questions, evaluating answers, analyzing resumes, matching job descriptions, and scoring candidates.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
-          <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
-          <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" />
-          <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
-        </p>
-        <p align="center">
-          <a href="YOUR_GITHUB_REPO_1">GitHub</a> •
-          <a href="YOUR_LIVE_DEMO_1">Live Demo</a>
-        </p>
-      </div>
-    </td>
-
-    <td width="50%" valign="top">
-      <div style="background:#111111;border:1px solid #00E5FF;border-radius:18px;padding:16px;">
-        <img src="https://readmeforge.natrajx.in/api/banner?text=AI%20Resume%20Analyzer&subtext=ATS%20score%20%2B%20skills%20gap%20analysis%20%2B%20AI%20feedback&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="AI Resume Analyzer" />
-        <h3 align="center">AI Resume Analyzer</h3>
-        <p align="center">Resume intelligence engine with parsing, ATS scoring, skills gap analysis, and AI-powered suggestions.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
-          <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" />
-          <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai" />
-          <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square" />
-        </p>
-        <p align="center">
-          <a href="YOUR_GITHUB_REPO_2">GitHub</a> •
-          <a href="YOUR_LIVE_DEMO_2">Live Demo</a>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <div style="background:#111111;border:1px solid #7C4DFF;border-radius:18px;padding:16px;">
-        <img src="https://readmeforge.natrajx.in/api/banner?text=AI%20RAG%20Chatbot&subtext=PDF%20chat%20%2B%20semantic%20search%20%2B%20vector%20retrieval&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="AI RAG Chatbot" />
-        <h3 align="center">AI RAG Chatbot</h3>
-        <p align="center">Conversational AI system for PDFs and websites using semantic search, retrieval, and vector databases.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" />
-          <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" />
-          <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square" />
-          <img src="https://img.shields.io/badge/HuggingFace-111111?style=flat-square&logo=huggingface" />
-        </p>
-        <p align="center">
-          <a href="YOUR_GITHUB_REPO_3">GitHub</a> •
-          <a href="YOUR_LIVE_DEMO_3">Live Demo</a>
-        </p>
-      </div>
-    </td>
-
-    <td width="50%" valign="top">
-      <div style="background:#111111;border:1px solid #00FF41;border-radius:18px;padding:16px;">
-        <img src="https://readmeforge.natrajx.in/api/banner?text=HR%20Management%20System&subtext=Employee%20management%20%2B%20workflow%20automation%20%2B%20dashboards&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="HR Management System" />
-        <h3 align="center">HR Management System</h3>
-        <p align="center">Modern HR platform for employee records, workflow automation, attendance, and internal operations.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
-          <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
-          <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
-        </p>
-        <p align="center">
-          <a href="YOUR_GITHUB_REPO_4">GitHub</a> •
-          <a href="YOUR_LIVE_DEMO_4">Live Demo</a>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <div style="background:#111111;border:1px solid #00E5FF;border-radius:18px;padding:16px;">
-        <img src="https://readmeforge.natrajx.in/api/banner?text=H-Shop%20Ecommerce&subtext=Payments%20%2B%20admin%20dashboard%20%2B%20order%20management&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="H-Shop Ecommerce" />
-        <h3 align="center">H-Shop Ecommerce</h3>
-        <p align="center">Full-stack ecommerce platform with authentication, payments, admin dashboard, and order management.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" />
-          <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
-          <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express" />
-          <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql" />
-          <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma" />
-        </p>
-        <p align="center">
-          <a href="YOUR_GITHUB_REPO_5">GitHub</a> •
-          <a href="YOUR_LIVE_DEMO_5">Live Demo</a>
-        </p>
-      </div>
-    </td>
-
-    <td width="50%" valign="top">
-      <div style="background:#111111;border:1px solid #7C4DFF;border-radius:18px;padding:16px;">
-        <img src="https://readmeforge.natrajx.in/api/banner?text=Food%20Delivery%20App&subtext=Ordering%20%2B%20delivery%20flows%20%2B%20responsive%20UI&metal=chrome&type=wave&height=180&width=900&animation=none&align=center&section=header&theme=dark&fontFamily=Orbitron&subtextFont=Rajdhani&visualStyle=metallic" width="100%" alt="Food Delivery App" />
-        <h3 align="center">Food Delivery App</h3>
-        <p align="center">A sleek food ordering experience with live delivery flows, customer UI, and responsive design.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
-          <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb" />
-          <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss" />
-        </p>
-        <p align="center">
-          <a href="YOUR_GITHUB_REPO_6">GitHub</a> •
-          <a href="YOUR_LIVE_DEMO_6">Live Demo</a>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- STATS -->
 ## `> metrics://github`
 
 <p align="center">
@@ -226,7 +171,6 @@ open_to_work = true
 
 ---
 
-<!-- STREAK -->
 ## `> streak://status`
 
 <p align="center">
@@ -235,7 +179,6 @@ open_to_work = true
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 ## `> graph://contributions`
 
 <p align="center">
@@ -244,7 +187,6 @@ open_to_work = true
 
 ---
 
-<!-- TROPHY -->
 ## `> trophy://collection`
 
 <p align="center">
@@ -253,7 +195,6 @@ open_to_work = true
 
 ---
 
-<!-- SNAKE -->
 ## `> snake://animation`
 
 <p align="center">
@@ -262,7 +203,6 @@ open_to_work = true
 
 ---
 
-<!-- CODING ACTIVITY -->
 ## `> activity://coding`
 
 ```text
@@ -277,7 +217,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- ACHIEVEMENTS -->
 ## `> achievements://badges`
 
 <p align="center">
@@ -291,7 +230,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- LEARNING -->
 ## `> learning://journey`
 
 - AI Agents
@@ -305,7 +243,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- CURRENT FOCUS -->
 ## `> focus://now`
 
 - Building AI SaaS applications.
@@ -316,7 +253,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- CONNECT -->
 ## `> connect://links`
 
 <p align="center">
@@ -333,7 +269,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 ### `> system.shutdown? false`
