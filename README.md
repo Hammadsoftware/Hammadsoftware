@@ -1,12 +1,11 @@
 <!-- ===================================================== -->
 <!--                 HAMMAD TARIQ README                  -->
-<!--          Futuristic Cyberpunk / AI Portfolio         -->
+<!--              STUNNING CYBERPUNK EDITION              -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<!-- HERO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1100&lines=Hammad+Tariq;Full+Stack+Developer+%7C+AI+Engineer+%7C+Next.js+Developer;Building+Futuristic+Web+Apps+with+AI+%26+Cloud;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=1200&lines=Hammad+Tariq;Full+Stack+Developer+%7C+AI+Engineer+%7C+Next.js+Developer;Building+Premium+AI+%26+Cloud+Applications;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hammadsoftware&label=VISITORS&color=00FF41&style=for-the-badge" alt="Visitor Count" />
@@ -17,12 +16,94 @@
 
 </div>
 
-<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/fad00749-6953-48c2-841b-9326ab1e247a.png?AWSAccessKeyId=ASIA2F3EMEYEWNXT36H5&Signature=AW3S5ZOeoJAkRNkPVDaaTvPEX2Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICuxiQenDDhKsKu4mqvb57p99yWrVPhvs%2B29SqnNXqtdAiAzSLZiimsq9h1lXxnBwa2%2BDu9SEPYEP2zdxxicOIYpwirzBAhiEAEaDDY5OTc1MzMwOTcwNSIMsg7c6%2FuC5bCkUCudKtAE8Dk%2BX8HwclWumONKMPR9Gs3oCkfq2CDAEYAo%2BVjyf4m%2F%2Fr%2BHrWjoguJdOogZV9qqJ8JzC0LIrUPV8CaUMCfI5uiJRXzr5I%2BCVHhxNmO3NCRWMiO4yIFNGEXI8C6RByzFSwtNAOAqU9r0ldyqt5W8ZNHYy9e39gq0RJJGdn8kYe%2Bqzd0md0BpwZ3%2BjG8cN%2FrHhgfeYECSoB46AvRSVLkIIX9ZZkJEfFqGfARhslxweGRbKD5JJx%2FcxtY56o%2FO1NGeV9CiFKXpLRAFs6ekXVGC7w%2Fhls0pKfHqXAFFIyuSYOcC4%2Bu%2BzjecuUBMm6T64Y6NlejQalGKhVXnfk5dGUNliSLA63%2FTjuy5orEyjj66DlO%2BuFVMja1kQAP42VqzQlCVYIG1xvoUd8Qrrsc2X%2FTI7BRCW5LOu%2FtTzXk8q6V7HORGDo%2BiBkh0vwyJIfSiiGijYG4GoXwpAZb%2BQ%2FgUuVKetmI0bLx5yrVC0Ohts1nuxO1erOV5tD0iAuANSxv2TPM%2BW%2B3YITwqItfVoTw%2B0EIjctdCeqYgvxTTgVJW86TlVVHUizpJcg2krcJxz5d6pJHCI5%2BgT6%2B3IOsWDfnCC7cLtgcz2b2YmqhuRGT%2FcBCx5b9VCATA5QvTh%2F7J0Xc2pjywH56sPM9eSM2t3oBV5pVhqni0cI0yM%2Fy2pZCBwpDpZhhAKWbCS6Fu%2BrTPZucie%2F1kqePkrchiDZapYoXiFZvDmbOLkFrdbB6HS4Ek45hIMG4c9aUMr1f5yY8gnv2vduD72uvgd3PUmPZ4F7fNjzRC%2FjDYuenSBjqZAXLVHwuk722XKXQ%2BgcAEEPkhpw84RRIT1JPEhO67B8qt94%2Fc6yom1XGtXOW8RP2h9YHAuh6vPYqqolBNKMC2iMXU07vLN4kkIrSWZqRxIu%2BjZAgP1941CZ%2FEdiQWtVKXBRb0P6YLTGc%2B3f1JwRyF2iCyepE06FstDaRWjOFi7bs6bUs1AnmBY0UPl3RLu0ncGq9j92gverKGrA%3D%3D&Expires=1784310443" width="100%" alt="Cyberpunk hero banner" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-label="Cyberpunk profile banner">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#050505"/>
+        <stop offset="1" stop-color="#0B1020"/>
+      </linearGradient>
+
+      <linearGradient id="neon" x1="220" y1="110" x2="1380" y2="410" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00FF41"/>
+        <stop offset="0.5" stop-color="#00E5FF"/>
+        <stop offset="1" stop-color="#7C4DFF"/>
+      </linearGradient>
+
+      <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+        <feGaussianBlur stdDeviation="12" result="blur"/>
+        <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 1 0 0 0.9  0 0 0 0 0.4  0 0 0 1 0" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+
+      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+        <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000000" flood-opacity="0.6"/>
+      </filter>
+
+      <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+        <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1F2937" stroke-width="1"/>
+      </pattern>
+
+      <pattern id="binary" width="180" height="90" patternUnits="userSpaceOnUse">
+        <text x="0" y="18" fill="#14301C" font-family="monospace" font-size="14">01001001 00110000</text>
+        <text x="18" y="46" fill="#163444" font-family="monospace" font-size="14">11001010 00101101</text>
+        <text x="0" y="76" fill="#2A1B55" font-family="monospace" font-size="14">01101001 01000110</text>
+      </pattern>
+    </defs>
+
+    <rect width="1600" height="520" fill="url(#bg)"/>
+    <rect width="1600" height="520" fill="url(#grid)" opacity="0.28"/>
+    <rect width="1600" height="520" fill="url(#binary)" opacity="0.24"/>
+
+    <circle cx="1220" cy="120" r="220" fill="#00E5FF" opacity="0.08" filter="url(#glow)">
+      <animate attributeName="r" values="200;230;200" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="390" r="250" fill="#00FF41" opacity="0.06" filter="url(#glow)">
+      <animate attributeName="r" values="235;260;235" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1320" cy="370" r="180" fill="#7C4DFF" opacity="0.08" filter="url(#glow)">
+      <animate attributeName="r" values="165;190;165" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <path d="M90 385 C 260 300, 440 305, 610 360 S 980 445, 1220 330 S 1470 250, 1560 300" stroke="url(#neon)" stroke-width="4" opacity="0.7" fill="none" filter="url(#glow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="140" y="90" rx="28" ry="28" width="1320" height="340" fill="#0B0F14" stroke="url(#neon)" stroke-width="2"/>
+      <rect x="170" y="120" rx="20" ry="20" width="520" height="270" fill="#111111" stroke="#00FF41" stroke-opacity="0.35"/>
+      <rect x="740" y="120" rx="20" ry="20" width="680" height="270" fill="#111111" stroke="#00E5FF" stroke-opacity="0.35"/>
+    </g>
+
+    <rect x="170" y="120" width="520" height="42" rx="20" fill="#121826"/>
+    <circle cx="198" cy="141" r="6" fill="#00FF41"/>
+    <circle cx="220" cy="141" r="6" fill="#00E5FF"/>
+    <circle cx="242" cy="141" r="6" fill="#7C4DFF"/>
+    <text x="270" y="147" fill="#A7F3D0" font-family="monospace" font-size="15">terminal@hammad:~</text>
+
+    <text x="210" y="210" fill="#EAEAEA" font-family="monospace" font-size="52" font-weight="700">Hammad Tariq</text>
+    <text x="210" y="260" fill="#00E5FF" font-family="monospace" font-size="22">Full Stack Developer | AI Engineer | Next.js Developer</text>
+    <text x="210" y="300" fill="#B8C2CC" font-family="monospace" font-size="18">Pakistan 🇵🇰</text>
+    <text x="210" y="340" fill="#00FF41" font-family="monospace" font-size="18">$ crafting futuristic apps with AI, cloud, and clean UX</text>
+
+    <g transform="translate(840 150)" filter="url(#glow)">
+      <rect x="0" y="0" width="490" height="210" rx="24" fill="#0F172A" stroke="url(#neon)" stroke-width="2"/>
+      <rect x="18" y="18" width="454" height="28" rx="14" fill="#111827"/>
+      <text x="34" y="37" fill="#A7F3D0" font-family="monospace" font-size="15">/dev/hacker-workstation</text>
+      <text x="30" y="82" fill="#00FF41" font-family="monospace" font-size="16">[open_to_work] true</text>
+      <text x="30" y="112" fill="#00E5FF" font-family="monospace" font-size="16">[focus] AI SaaS • RAG • LLMs</text>
+      <text x="30" y="142" fill="#7C4DFF" font-family="monospace" font-size="16">[stack] Next.js • FastAPI • Docker • AWS</text>
+      <text x="30" y="172" fill="#EAEAEA" font-family="monospace" font-size="16">[status] building premium developer experiences</text>
+    </g>
+
+    <g filter="url(#glow)">
+      <rect x="1260" y="110" width="150" height="56" rx="18" fill="#00FF41" opacity="0.16" stroke="#00FF41"/>
+      <text x="1291" y="145" fill="#00FF41" font-family="monospace" font-size="17" font-weight="700">OPEN TO WORK</text>
+    </g>
+  </svg>
 </p>
 
-<!-- TERMINAL INTRO -->
 ## `> terminal://introduction`
 
 ```bash
@@ -44,10 +125,9 @@ open_to_work = true
 
 ---
 
-<!-- ABOUT ME -->
 ## `> about://me`
 
-<img align="right" width="320" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Stack visual" />
+<img align="right" width="300" src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,docker,aws&theme=dark" alt="Stack visual" />
 
 - I build modern full stack products with a strong focus on AI, UX, and scalability.
 - I enjoy turning complex ideas into clean, production-ready applications.
@@ -59,7 +139,6 @@ open_to_work = true
 
 ---
 
-<!-- TECH STACK -->
 ## `> stack://core`
 
 ### Frontend
@@ -94,19 +173,6 @@ open_to_work = true
 
 ---
 
-<!-- WORKING -->
-## `> working://now`
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadsoftware&theme=tokyo-night&hide_border=true&bg_color=050505&color=00FF41&line=00E5FF&point=7C4DFF&area=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadsoftware&theme=tokyonight"/>
-</p>
-
----
-<!-- STATS -->
 ## `> metrics://github`
 
 <p align="center">
@@ -116,7 +182,6 @@ open_to_work = true
 
 ---
 
-<!-- STREAK -->
 ## `> streak://status`
 
 <p align="center">
@@ -125,7 +190,6 @@ open_to_work = true
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 ## `> graph://contributions`
 
 <p align="center">
@@ -134,7 +198,6 @@ open_to_work = true
 
 ---
 
-<!-- TROPHY -->
 ## `> trophy://collection`
 
 <p align="center">
@@ -143,7 +206,6 @@ open_to_work = true
 
 ---
 
-<!-- SNAKE -->
 ## `> snake://animation`
 
 <p align="center">
@@ -152,7 +214,6 @@ open_to_work = true
 
 ---
 
-<!-- CODING ACTIVITY -->
 ## `> activity://coding`
 
 ```text
@@ -167,7 +228,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- ACHIEVEMENTS -->
 ## `> achievements://badges`
 
 <p align="center">
@@ -181,7 +241,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- LEARNING -->
 ## `> learning://journey`
 
 - AI Agents
@@ -195,7 +254,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- CURRENT FOCUS -->
 ## `> focus://now`
 
 - Building AI SaaS applications.
@@ -206,7 +264,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- CONNECT -->
 ## `> connect://links`
 
 <p align="center">
@@ -223,7 +280,6 @@ Sun  █████░░░░░  5 hrs
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 ### `> system.shutdown? false`
